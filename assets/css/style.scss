@@ -2,4 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
-h1 {color:pink;}
+@media screen and (min-width: 64em) {
+.page-header {
+    padding: 3rem 6rem;
+ }
+.main-content h2 {color:#019C86;}
+.main-content h3 {color:black;}
