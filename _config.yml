@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: ClientComm Help Page
 tagline: hey
+github:
+  is_project_page: false
