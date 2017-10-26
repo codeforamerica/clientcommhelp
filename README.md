@@ -6,14 +6,12 @@
 - can't remember your login
 - a new ClientComm account for a coworker
 
-## Something else?
+### Something else?
 - Contact IT at helpdesk@workforce.org
 
 ---
 
 ## How does ClientComm work?
-
-Learn how ClientComm connects you to clients via text message.
 
 ClientComm allows you to send text messages to your clients, right from your computer. It runs in your web browser, so you can use it from any computer or smart phone. Clients receive your messages on their phones, like any normal text. 
 
@@ -27,13 +25,11 @@ You have lots of ways to communicate with your clients. What makes texting diffe
 
 ## Text message best practices
 
-Effective communication strategies will help you get the most out of ClientComm
+Effective communication strategies will help you get the most out of ClientComm.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bt-aEaUR0cg" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 ## How do I send a message to multiple clients at once?
 Learn how to send a mass message.
-
-### How to send a mass message
 ![Sending a mass message](https://raw.githubusercontent.com/codeforamerica/clientcommhelp/master/MassMessage.gif)
 
 On the homepage, click the "mass message" button. Write your message, then select your recipients. You can check off just a few clients, or use the "select all" checkbox to choose all of them. There is no limit to the number of clients you can message at once. Then hit send!
@@ -58,9 +54,7 @@ Click on the name of the client you want to send a message to. Click the "send l
 
 ## How do I make a template or canned message?
 
-Do you find yourself writing the same message over and over?
-
-ClientComm's template feature lets you write a message, and save it to use in future conversations. When you're talking to a client, you have access to a list of your templates to easily select and send. 
+Do you find yourself writing the same message over and over? ClientComm's template feature lets you write a message, and save it to use in future conversations. When you're talking to a client, you have access to a list of your templates to easily select and send. 
 
 ### How to make and use templates
 ![Making and using templates](https://raw.githubusercontent.com/codeforamerica/clientcommhelp/master/template.gif)
@@ -96,7 +90,6 @@ To update your account settings, click on the "account" link in the top menu, th
 ![Updaing settings](https://raw.githubusercontent.com/codeforamerica/clientcommhelp/master/update_settings.gif)
 
 ## How do I add and delete clients?
-Manage your contact list.
 
 ### Add a client
 ![Adding a new client](https://raw.githubusercontent.com/codeforamerica/clientcommhelp/master/AddClient.gif)
@@ -108,8 +101,6 @@ If you don't want to see a client on your contact list anymore, you can delete t
 If a client sends you a text message after you've deleted them, they will be restored to your contact list so that you can respond to them. You won't miss any messages from them.
 
 ## What happens if I need to text a client who's assigned to someone else?
-
-Learn about transferring clients.
 
 You can only exchange messages with clients on your contact list. A client can only be one user's contact list at at a time. If you need to message a client who's assigned to someone else, get in touch with your administrator. They can transfer the client to you.
 
