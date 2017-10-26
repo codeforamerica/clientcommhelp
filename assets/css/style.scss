@@ -3,8 +3,8 @@
 
 @import "{{ site.theme }}";
 .project-tagline {display:none;}
-.main-content h2 {color:#019C86;}
-.main-content h3 {color:#666;}
+.main-content h2 {color:#019C86; font-weight: bold; margin-top: 4rem;}
+.main-content h3 {color:#666; font-weight: bold;}
 .main-content hr {
     height: 1px;
     margin: 2rem 0;
