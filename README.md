@@ -101,7 +101,7 @@ To update your account settings, click on the "account" link in the top menu, th
 Manage your contact list.
 
 ### Add a client
-![Adding a new client](/clientcommhelp/AddClient.gif)
+![Adding a new client](https://raw.githubusercontent.com/codeforamerica/clientcommhelp/master/AddClient.gif)
 To add a new client to your contact list, click the "new client" button on the home page. Enter their name and phone number, and assign them a status. You can also add a note about the client. You can use this for anything you like: their CalJobs ID, the training center they’re at, a list of their skills. 
 
 ### Delete a client
