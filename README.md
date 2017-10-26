@@ -1,7 +1,6 @@
-## ClientComm Help Page
+## [↩  Back to ClientComm](https://clientcomm.workforce.org/)
 
-# [↩  Back to ClientComm](https://clientcomm.workforce.org/)
-
+# ClientComm Help Page
 
 ### Contact your supervisor if you need:
 - to transfer a client or have a client transferred to you
@@ -116,4 +115,6 @@ Learn about transferring clients.
 
 You can only exchange messages with clients on your contact list. A client can only be one user's contact list at at a time. If you need to message a client who's assigned to someone else, get in touch with your administrator. They can transfer the client to you.
 
-# [↩  Back to ClientComm](https://clientcomm.workforce.org/)
+---
+
+## [↩  Back to ClientComm](https://clientcomm.workforce.org/)
