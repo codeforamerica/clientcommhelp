@@ -101,7 +101,7 @@ To update your account settings, click on the "account" link in the top menu, th
 Manage your contact list.
 
 ### Add a client
-![](https://static.notion-static.com/6b00e4fc9c1c4df1bf9b0e1ba8fb294b/AddClient.gif)
+![Adding a new client](/clientcommhelp/AddClient.gif)
 To add a new client to your contact list, click the "new client" button on the home page. Enter their name and phone number, and assign them a status. You can also add a note about the client. You can use this for anything you like: their CalJobs ID, the training center they’re at, a list of their skills. 
 
 ### Delete a client
