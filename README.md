@@ -1,3 +1,34 @@
+## ClientComm Help Page
+
+[↩  Back to ClientComm](https://clientcomm.workforce.org/)
+
+
+### Contact your supervisor if you need:
+- to transfer a client or have a client transferred to you
+- can't remember your login
+- a new ClientComm account for a coworker
+
+## Something else?
+- Contact IT at helpdesk@workforce.org
+
+---
+
+## How does ClientComm work?
+
+Learn how ClientComm connects you to clients via text message.
+
+ClientComm allows you to send text messages to your clients, right from your computer. It runs in your web browser, so you can use it from any computer or smart phone. Clients receive your messages on their phones, like any normal text. 
+
+Everyone using ClientComm has the same phone number. How does that work? Behind the scenes, ClientComm routes messages from clients to the correct case manager. This routing is based on which clients are on which contact lists.
+
+![Routing clients to case managers](https://static.notion-static.com/4d288cc96ec44fe287dbc71a35ae3dde/unclaimedclient.gif)
+
+## Why should I use text messages?
+
+You have lots of ways to communicate with your clients. What makes texting different?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W-zkNkGnK34" frameborder="0" allowfullscreen></iframe>
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/codeforamerica/clientcommhelp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
