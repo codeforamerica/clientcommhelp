@@ -1,6 +1,5 @@
 ## [↩  Back to ClientComm](https://clientcomm.workforce.org/)
 
-# ClientComm Help Page
 
 ### Contact your supervisor if you need:
 - to transfer a client or have a client transferred to you
