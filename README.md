@@ -36,7 +36,7 @@ Effective communication strategies will help you get the most out of ClientComm
 Learn how to send a mass message.
 
 ### How to send a mass message
-![](https://static.notion-static.com/89a59af001214648b63a0ef6d6a00bf0/MassMessage.gif)
+![Sending a mass message](https://raw.githubusercontent.com/codeforamerica/clientcommhelp/master/MassMessage.gif)
 
 On the homepage, click the "mass message" button. Write your message, then select your recipients. You can check off just a few clients, or use the "select all" checkbox to choose all of them. There is no limit to the number of clients you can message at once. Then hit send!
 
@@ -54,7 +54,7 @@ Your clients value the individual relationships you build with them. Strike a ba
 
 ## How do I schedule messages to be sent at a later date?
 Learn how to write a text now, and send it later.
-![](https://static.notion-static.com/d309a24cbb9348f7a654b85b2b3e1fcd/ScheduledMessage.gif)
+![Scheduling messages](https://raw.githubusercontent.com/codeforamerica/clientcommhelp/master/ScheduledMessage.gif)
 
 Click on the name of the client you want to send a message to. Click the "send later button" next to the send button. Write your message, then select the time and date you want it sent on. Then hit the "scheduled message" button. You can edit or delete the message at any point before it sends.
 
@@ -65,7 +65,7 @@ Do you find yourself writing the same message over and over?
 ClientComm's template feature lets you write a message, and save it to use in future conversations. When you're talking to a client, you have access to a list of your templates to easily select and send. 
 
 ### How to make and use templates
-![](https://static.notion-static.com/050b2623829f47198ea0e15c9f4fb888/template.gif)
+![Making and using templates](https://raw.githubusercontent.com/codeforamerica/clientcommhelp/master/template.gif)
 
 Click on the "templates" link in the top menu, then click the "new template" button. Write your template, and give it a name. The template name isn't part of the message recipients see, it's just for you to keep track of your templates.
 
@@ -95,7 +95,7 @@ What happens iff you don't don't have a desk phone number specified on your sett
 Change your password, email address, and more.
 
 To update your account settings, click on the "account" link in the top menu, then click "account settings". You can change your name, email address, desk phone number, or password here.
-![](https://static.notion-static.com/844299d6c07e49f9bfeec82def7ce65d/update_settings.gif)
+![Updaing settings](https://raw.githubusercontent.com/codeforamerica/clientcommhelp/master/update_settings.gif)
 
 ## How do I add and delete clients?
 Manage your contact list.
