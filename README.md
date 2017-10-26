@@ -1,4 +1,4 @@
-## [↩  Back to ClientComm](https://clientcomm.workforce.org/)
+## [↩  Back to ClientComm](https://sdwp.clientcomm.org/)
 
 ---
 
@@ -113,4 +113,4 @@ You can only exchange messages with clients on your contact list. A client can o
 
 ---
 
-## [↩  Back to ClientComm](https://clientcomm.workforce.org/)
+## [↩  Back to ClientComm](https://sdwp.clientcomm.org/)
