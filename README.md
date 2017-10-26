@@ -8,7 +8,7 @@
 - a new ClientComm account for a coworker
 
 ### Something else?
-- Contact IT at helpdesk@workforce.org
+- Contact IT at [helpdesk@workforce.org](helpdesk@workforce.org)
 
 ---
 
@@ -92,7 +92,7 @@ Change your password, email address, and more.
 
 To update your account settings, click on the "account" link in the top menu, then click "account settings". You can change your name, email address, desk phone number, or password here.
 
-![Updaing settings](https://raw.githubusercontent.com/codeforamerica/clientcommhelp/master/update_settings.gif)
+![Updating settings](https://raw.githubusercontent.com/codeforamerica/clientcommhelp/master/UpdateSettings.gif)
 
 ## How do I add and delete clients?
 
