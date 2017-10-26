@@ -8,7 +8,7 @@
 - a new ClientComm account for a coworker
 
 ### Something else?
-- Contact IT at [helpdesk@workforce.org](helpdesk@workforce.org)
+- Contact IT at helpdesk@workforce.org
 
 ---
 
