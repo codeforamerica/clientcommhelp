@@ -20,7 +20,6 @@ ClientComm allows you to send text messages to your clients, right from your com
 
 Everyone using ClientComm has the same phone number. How does that work? Behind the scenes, ClientComm routes messages from clients to the correct case manager. This routing is based on which clients are on which contact lists.
 
-![Routing clients to case managers](https://static.notion-static.com/4d288cc96ec44fe287dbc71a35ae3dde/unclaimedclient.gif)
 
 ## Why should I use text messages?
 
