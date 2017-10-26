@@ -1,6 +1,6 @@
 ## ClientComm Help Page
 
-[↩  Back to ClientComm](https://clientcomm.workforce.org/)
+# [↩  Back to ClientComm](https://clientcomm.workforce.org/)
 
 
 ### Contact your supervisor if you need:
@@ -28,41 +28,92 @@ Everyone using ClientComm has the same phone number. How does that work? Behind 
 You have lots of ways to communicate with your clients. What makes texting different?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W-zkNkGnK34" frameborder="0" allowfullscreen></iframe>
 
+## Text message best practices
 
-## Welcome to GitHub Pages
+Effective communication strategies will help you get the most out of ClientComm
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bt-aEaUR0cg" frameborder="0" gesture="media" allowfullscreen></iframe>
 
-You can use the [editor on GitHub](https://github.com/codeforamerica/clientcommhelp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## How do I send a message to multiple clients at once?
+Learn how to send a mass message.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How to send a mass message
+![](https://static.notion-static.com/89a59af001214648b63a0ef6d6a00bf0/MassMessage.gif)
 
-### Markdown
+On the homepage, click the "mass message" button. Write your message, then select your recipients. You can check off just a few clients, or use the "select all" checkbox to choose all of them. There is no limit to the number of clients you can message at once. Then hit send!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The messages will go into the clients’ individual conversation pages, so you can easily keep track of replies. And there's no need to worry about privacy, the recipients won’t be revealed to each other. It’s just like BCCing an email.
 
-```markdown
-Syntax highlighted code block
+### Use mass messages for:
+  - Checking in with multiple people at once
+  - Announcing an office closure or vacation
+  - Sending a reminder to workshop attendees
+  - A job lead that more than one client might be interested in
 
-# Header 1
-## Header 2
-### Header 3
+### Keep in mind
 
-- Bulleted
-- List
+Your clients value the individual relationships you build with them. Strike a balance between personalized messages and mass messages. Only send mass messages when they’re relevant to all of the recipients.
 
-1. Numbered
-2. List
+## How do I schedule messages to be sent at a later date?
+Learn how to write a text now, and send it later.
+![](https://static.notion-static.com/d309a24cbb9348f7a654b85b2b3e1fcd/ScheduledMessage.gif)
 
-**Bold** and _Italic_ and `Code` text
+Click on the name of the client you want to send a message to. Click the "send later button" next to the send button. Write your message, then select the time and date you want it sent on. Then hit the "scheduled message" button. You can edit or delete the message at any point before it sends.
 
-[Link](url) and ![Image](src)
-```
+## How do I make a template or canned message?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Do you find yourself writing the same message over and over?
 
-### Jekyll Themes
+ClientComm's template feature lets you write a message, and save it to use in future conversations. When you're talking to a client, you have access to a list of your templates to easily select and send. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/codeforamerica/clientcommhelp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### How to make and use templates
+![](https://static.notion-static.com/050b2623829f47198ea0e15c9f4fb888/template.gif)
 
-### Support or Contact
+Click on the "templates" link in the top menu, then click the "new template" button. Write your template, and give it a name. The template name isn't part of the message recipients see, it's just for you to keep track of your templates.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+When you're ready to use a template, click on the name of the client you want to send it to. In the text area, where you normally type your message, click the speech bubble icon on the right. This will pop up a list of your templates. Click on the one you want to use. Make any changes you want to make to the message, then hit send! 
+
+### Use templates for:
+  - Introduction texts
+  - Check-ins and follow ups
+  - Addresses
+  - Any full or partial message you need to send frequently
+
+### Customize it
+After you select a template, you can add or remove text before you send it. Try using a template as a starting point, and add on a customized sentence or two. This lets you save time, while still maintaining a personal touch.
+
+### Use placeholders
+Templates need to be generic so you can use them with any client, on any day. But you can use placeholders that prompt you to fill in relevant information like a name or date. Just make sure you replace them with real information before you send your message!
+
+## What happens if a client calls the ClientComm phone number?
+ClientComm can transfer calls to your desk phone.
+
+The ClientComm phone number can only be used to send and receive text messages. The good news is, ClientComm can automatically redirect incoming calls to your desk phone number. You'll need to add your desk number (or any phone number you can receive calls at) to your account settings page. This will make it easier and less confusing for clients to get in touch with you.
+
+What happens iff you don't don't have a desk phone number specified on your settings page? Callers will hear a recording advising them that the number can only receive text messages and that they should hang up and send a text.
+
+## How do I update my account settings?
+
+Change your password, email address, and more.
+
+To update your account settings, click on the "account" link in the top menu, then click "account settings". You can change your name, email address, desk phone number, or password here.
+![](https://static.notion-static.com/844299d6c07e49f9bfeec82def7ce65d/update_settings.gif)
+
+## How do I add and delete clients?
+Manage your contact list.
+
+### Add a client
+![](https://static.notion-static.com/6b00e4fc9c1c4df1bf9b0e1ba8fb294b/AddClient.gif)
+To add a new client to your contact list, click the "new client" button on the home page. Enter their name and phone number, and assign them a status. You can also add a note about the client. You can use this for anything you like: their CalJobs ID, the training center they’re at, a list of their skills. 
+
+### Delete a client
+If you don't want to see a client on your contact list anymore, you can delete them. To delete a client, click on their name, then click the "manage client" button. Scroll down, and click the "delete" button. If you change your mind, you can add them back using the "new client" button on the homepage.
+
+If a client sends you a text message after you've deleted them, they will be restored to your contact list so that you can respond to them. You won't miss any messages from them.
+
+## What happens if I need to text a client who's assigned to someone else?
+
+Learn about transferring clients.
+
+You can only exchange messages with clients on your contact list. A client can only be one user's contact list at at a time. If you need to message a client who's assigned to someone else, get in touch with your administrator. They can transfer the client to you.
+
+# [↩  Back to ClientComm](https://clientcomm.workforce.org/)
