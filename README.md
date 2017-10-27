@@ -2,10 +2,10 @@
 
 ---
 
-### Contact your supervisor if you need:
-- to transfer a client or have a client transferred to you
+### Contact your supervisor if you:
+- need to transfer a client or have a client transferred to you
 - can't remember your login
-- a new ClientComm account for a coworker
+- have a coworker who needs an account
 
 ### Something else?
 - Contact IT at helpdesk@workforce.org
